@@ -5,7 +5,7 @@
 
 <p align="center">
       <a href="https://www.linkedin.com/in/arbaj-salim-shaikh/">
-        <img align="center" alt="Sultan's LinkedIn profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+        <img align="center" alt="Arbaj's's LinkedIn profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
       </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/ArbajShaikhGithub">
         <img align="center" alt="Smit's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -25,71 +25,44 @@
   
 👨🏻‍💻  About Me  
 
-🔭 I’m on a journey to become a Software Engineer and contributing to frontend and backend for building web applications
+🔭 I’m a Software Engineer and contributing to frontend and backend for building web applications
 
 🌱 Learning various technologies
 
 ⚡ In my free time, I solve problems on Leetcode and read tech articles
-
-✍️ Love reading books
+      
 <br/> 
 </em>
+<br>
+<br>
+<br>
+<br>
 
-### Worked with 
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="python"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="html"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="css"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" title="flask"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="git"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
 
-### GitHub Stats
 
-<p align="center">
-  <a href = "https://github.com/Sultan-Salim-Shaikh">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=Sultan-Salim-Shaikh&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
-  </a>
- </p>
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/> 
+ <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
+- 🌐 &nbsp;
+ <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
+
+- 🛢 &nbsp;
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
  
-### Top Languages
+- ⚙️ &nbsp;
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
-<p align="center">
-<a href = "https://github.com/Sultan-Salim-Shaikh">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=Sultan-Salim-Shaikh&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
-</a>
-</p>
+- 🔧 &nbsp;
+ ![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white), ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-### Top repositories
-
-
-<p align="center">
-  <a href = "https://github.com/Sultan-Salim-Shaikh/Heart_Disease_Diagnostic_Analysis">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=Sultan-Salim-Shaikh&repo=Heart_Disease_Diagnostic_Analysis&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Sultan-Salim-Shaikh/Flipkart_Review_Scrapper">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=Sultan-Salim-Shaikh&repo=Flipkart_review_scrapper&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-  </a>
-  </p>
-
-<p align="center">
-  <a href="https://github.com/Sultan-Salim-Shaikh/KPMG_virtual_internship">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=Sultan-Salim-Shaikh&repo=KPMG_virtual_internship&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-  </a>
-  </p>
-
-<p align="center">
-  <a href = "https://github.com/Sultan-Salim-Shaikh/Student-Percentage-Prediction">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=Sultan-Salim-Shaikh&repo=Student-Percentage-Prediction&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-  </a>
-</p>
 
 
 # Connect me on:
-LinkedIn: https://www.linkedin.com/in/sultan-salim-shaikh/
+LinkedIn: https://www.linkedin.com/in/arbaj-salim-shaikh/
 
 ## Note: Please do not spam on the above mentioned profiles.
 
